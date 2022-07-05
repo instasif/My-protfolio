@@ -7,11 +7,14 @@ h2{
     font-size: 50px;
 }
 .font{
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 700;
 }
 .orange{
     color: orange;
+}
+.orange{
+    font-size: 35px;
 }
 p{
     font-size: 2px;
