@@ -15,8 +15,9 @@ h3{
 p{
     font-size: 30px;
 }
-section{
+.flaxible-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .hulf-width{
     width: 50%;
