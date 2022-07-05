@@ -4,17 +4,24 @@ body{
     margin: 0%;
 }
 h2{
-    font-size: 50px;
+    font-size: 100px;
 }
 .font{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 700;
 }
 .orange{
     color: orange;
 }
-.orange{
-    font-size: 35px;
+
+#date-font{
+    font-size: 50px;
+}
+#stack-font{
+    font-size: 50px;
+}
+#asif-font{
+    font-size: 100px;
 }
 p{
     font-size: 2px;
@@ -50,9 +57,13 @@ p{
     width: 80%;
     margin-left: 2%;
     margin-right: 5%;
+    border-left: 10px solid orangered;
     border-radius: 10px;
     padding-left: 2%;
     background-image: url();
     background-repeat: no-repeat;
     box-shadow: 10px 10px 40px gray;
+}
+#baby{
+    border-left: 10px solid blue;
 }
